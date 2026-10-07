@@ -56,3 +56,19 @@ Pokemon
     ├── PokeApiGui.form
     ├── PokeApiGui.java
     └── Pokemon.java
+
+
+
+## Capturas de pantalla
+
+### Interfaz principal
+
+![Interfaz principal](screenshots/interfaz-principal.jpg)
+
+### Pokémon seleccionados
+
+![Pokémon seleccionados](screenshots/pokemon-seleccionados.jpg)
+
+### Combate
+
+![Combate](screenshots/combate.jpg)
